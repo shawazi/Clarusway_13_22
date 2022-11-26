@@ -3,7 +3,7 @@
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 <br>
 
-## Project- 002 : Portfolio Page
+## HC-01 : Portfolio Page
 
 
 ## Assignment Statement
@@ -29,7 +29,7 @@
 - Publish your own website repo on Github
 
 
- 
+
 ## Notes
 
 - How to host a website on Github:

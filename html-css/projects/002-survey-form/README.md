@@ -1,7 +1,7 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-001 :Survey Form (HC-01)
+# HC-02 : Survey Form
 
 ## Description
 Project aims to create survey form within html and css.
@@ -17,7 +17,7 @@ Project aims to create survey form within html and css.
 ## Project Skeleton 
 
 ```
-001-survey-form (folder)
+002-survey-form (folder)
 |
 |----readme.md         # Given to the students (Definition of the project)          
 |----solution
@@ -54,7 +54,7 @@ Functionally create a Survey Form as in the image above
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 ## Steps to Solution
-  
+
 - Step 1: Download or clone project repo on Github 
 
 - Step 2: Create project folder for local public repo on your pc
@@ -84,7 +84,7 @@ Functionally create a Survey Form as in the image above
 	- Define labels color-size-padding etc... (Tips: id="name", "email", "number" ...)
 	- Set class color-size-padding-margin etc...
 	- Define id="submit" color-size-padding etc...
-	
+
 - Step 4: Push your application into your own public repo on Github
 
 - Step 5: Deploy your application on Github template to showcase your app within your team.
