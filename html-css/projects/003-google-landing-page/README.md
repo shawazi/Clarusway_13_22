@@ -1,4 +1,4 @@
-# HC-02 : Google Landing Page
+# HC-03 : Google Landing Page
 
 ## Description
 Project aims to create google landing page.
@@ -10,7 +10,7 @@ Project aims to create google landing page.
 ## Project Skeleton 
 
 ```
-002-google-landing-page (folder)
+003-google-landing-page (folder)
 |
 |----readme.md         # Given to the students (Definition of the project)          
 |----images            # Given to the students (Definition of the project)   
