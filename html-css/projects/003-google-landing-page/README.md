@@ -16,10 +16,10 @@ Project aims to create google landing page.
 |----images            # Given to the students (Definition of the project)   
         |----appicon.png   
         |----gfavicon.png
-		|----google_microphone.png
-		|----googlelogo.png
-		|----icon-menu.jpg
-		|----magnifying_glass.png
+	|----google_microphone.png
+	|----googlelogo.png
+	|----icon-menu.jpg
+	|----magnifying_glass.png
 |----solution
         |----index.html  
         |----style.css   
