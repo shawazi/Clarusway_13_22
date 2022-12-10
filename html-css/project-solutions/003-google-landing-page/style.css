@@ -1,0 +1,157 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+/* Header Section */
+
+.header {
+  padding: 1rem;
+}
+
+.header__right {
+  float: right;
+}
+
+.header__left {
+  float: left;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  padding: 0.5rem;
+  opacity: 0.8;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.header__right--appicon {
+  vertical-align: middle;
+  opacity: 0.8;
+}
+
+.header__right--appicon:hover {
+  opacity: 1;
+  text-decoration: none;
+}
+
+.header__right--button {
+  background-color: #4285F4;
+  border: none;
+  padding: 0.5rem;
+  border-radius: 3px;
+  color: white;
+  font-weight: bold;
+}
+
+.header__right--button:hover {
+  cursor: pointer;
+  background-color: #2f72df;
+}
+
+
+/* Main Content */
+
+.main__logo {
+  margin: 200px auto 0;
+  display: block;
+}
+
+.main__search-bar {
+  height: 48px;
+  width: 500px;
+  border: 1px solid lightgrey;
+  border-radius: 24px;
+  margin: 32px auto;
+  display: flex;
+  align-items: center;
+}
+
+.main__search-bar:hover{
+  box-shadow:rgba(32,33,36,0.28) 0px 1px 6px 0px;
+}
+
+.main__search-bar--magnify{
+  height: 25px;
+  margin-left: 10px;
+}
+
+.main__search-bar--input {
+  width: 420px;
+  border: none;
+  font-size: 18px;
+}
+
+.main__search-bar--input:focus-visible {
+  outline: none;
+}
+
+.main__search-bar--microphone {
+  height: 24px;
+  margin-left: 10px;
+}
+
+.main__buttons {
+  text-align: center;
+}
+
+.main__buttons--left,
+.main__buttons--right {
+  background-color: #F9F9F9;
+  border: none;
+  padding: 1rem;
+  border-radius: 3px;
+  border: 1px solid transparent;
+  margin: 0 4px ;
+}
+
+.main__buttons--left:hover,
+.main__buttons--right:hover{
+  border: 1px solid #dadada;
+  cursor: pointer;
+}
+
+/* Footer section */
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  background-color: #f2f2f2;
+  width: 100%;
+}
+
+.footer__bottom {
+  padding: 1rem;
+}
+
+.footer__country {
+  border-bottom: 1px solid #dadada;
+  color: black;
+  opacity: 0.8;
+  padding: 1rem 1.5rem;
+}
+
+.footer__left {
+  float: left;
+}
+
+.footer__left {
+  float: right;
+}
