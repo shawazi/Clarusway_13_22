@@ -1,7 +1,7 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# JS-CC-03 : Palindromic String
+# JS-CC-03 : Check Palindrome
 
 Purpose of the this coding challenge is to write a code that checks whether a string is palindromic or not.
 
